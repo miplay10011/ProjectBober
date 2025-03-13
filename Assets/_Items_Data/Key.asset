@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44bcbf6102b945e47860ae92d75f8c66, type: 3}
+  m_Name: Key
+  m_EditorClassIdentifier: 
+  ItemName: "\u0421\u0442\u0430\u0440\u044B\u0439 \u043A\u043B\u044E\u0447"
+  Prefab: {fileID: 3850567487226516578, guid: ccdbc7baf0022ef479de95394b666a0d, type: 3}
+  InventoryIcon: {fileID: 21300000, guid: 2b95d0d2dc38ff94aa6ce024c015ecf0, type: 3}
+  IsStackable: 0
+  MaxStackSize: 99
+  Description: "\u041E\u0442\u043A\u0440\u044B\u0432\u0430\u0435\u0442 \u0434\u0432\u0435\u0440\u044C"
+  isConsumable: 0
+  isWeapon: 0
+  HandPositionOffset: {x: 0, y: 0, z: 0}
+  HandRotationOffset: {x: 0, y: 0, z: 0}
+  DropAudioClip: {fileID: 8300000, guid: 13a49c97dfee32e41b2cbefd63e4ecca, type: 3}
+  PickupAudioClip: {fileID: 8300000, guid: 6b803a57a0c8cab40a9d6ef9a49a2faa, type: 3}
